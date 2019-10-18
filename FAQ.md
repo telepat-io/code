@@ -20,7 +20,7 @@ The Code is short for Telepat North’s Ethical, Professional and Personal Code,
 - Contributing more to open source
 - Improving their communication/language skills
 - Improving their coding skills
-- Encouraging their peers to take the same approach towards excellence2
+- Encouraging their peers to take the same approach towards excellence
     
 ### What perks do members get?
 - Access to member-only North events and all the North community.
@@ -37,4 +37,4 @@ Candidates need to receive an invitation from an existing North member and jump 
 - communication skills
     
 ### Who’s behind this?
-This is the passion project of 3 serial entrepreneurs with a background in developer platforms &  & media products. Our goal is to emulate the dynamics of a startup accelerator within a community of exceptional humans, by investing in the accumulation and distribution of knowledge.
+This is the passion project of 3 serial entrepreneurs with a background in developer platforms & media products. Our goal is to emulate the dynamics of a startup accelerator within a community of exceptional humans, by investing in the accumulation and distribution of knowledge.
