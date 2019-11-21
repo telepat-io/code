@@ -4,6 +4,7 @@
 
 This Code largely draws inspiration from the amazing [ACM Code of Ethics and Professional Conduct](https://acm.org/code-of-ethics), alongside a list of other great resources:
 
+- The IEEE Code of Ethics - https://www.ieee.org/about/corporate/governance/p7-8.html
 - The Never Again Pledge - https://neveragain.tech/
 - The Global Data Ethics Pledge - https://github.com/Data4Democracy/ethics-resources
 - Robert C. Martin's Programmer’s Oath http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
