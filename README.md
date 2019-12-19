@@ -26,8 +26,7 @@ This Code largely draws inspiration from the amazing [ACM Code of Ethics and Pro
 - Promote environmental sustainability both locally and globally.
 
 #### 1.2 Avoid harm.
-In this document, "harm" means negative consequences, especially when those consequences are significant and unjust. Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information, and unjustified damage to property, reputation, and the environment. This list is not exhaustive.
-
+- In this document, "harm" means negative consequences, especially when those consequences are significant and unjust. Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information, and unjustified damage to property, reputation, and the environment. This list is not exhaustive.
 - Ensure that all harm is minimized.
 - Carefully consider consequences on all those affected by your decisions.
 - When the harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible. 
@@ -97,8 +96,7 @@ In this document, "harm" means negative consequences, especially when those cons
 - Understand, mitigate and communicate the presence of bias in algorithms.
 
 #### 2.3 Know the rules.
-"Rules" here include local, regional, national, and international laws and regulations, as well as any policies and procedures of the organizations to which the professional belongs.
-
+- "Rules" here include local, regional, national, and international laws and regulations, as well as any policies and procedures of the organizations to which the professional belongs.
 - Abide by these rules unless there is a compelling ethical justification to do otherwise.
 - Rules that are judged unethical should be challenged. A rule may be unethical when it has an inadequate moral basis or causes recognizable harm. Consider challenging the rule through existing channels before violating the rule. When violating a rule, consider potential consequences and accept responsibility for that action.
 
