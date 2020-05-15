@@ -85,7 +85,18 @@ Candidates that choose to pursue membership will need to read the Code and have 
 Depending on the outcome of the interview session:
 - The member can be directly assigned to the CADET Rank;
 - The member can be directly assigned to the RISING STAR Rank;
-- The member can be assigned to schedule a Code Showcase session that will decide his entry Rank.
+- The member can be assigned to schedule a [Code Showcase](#the-code-showcase) session that will decide his entry Rank.
+
+### The Code Showcase
+The Code Showcase is a recorded one-hour session that will be attached to the member's North 360 Profile. The objective is to provide a reference for the member's coding as well as reasoning abilities and language skill. A North crew member will act as a session moderator.
+
+Members can choose between two possible scenarios for the Code Showcase:
+- The Open-Source Project scenario, where the member walks through the code within one of his publically available GitHub repos and engages in a discussion with the moderator around project highlights and challenges. Ideally, the project should follow the guidelines described [here](#github-showcase-projects).
+- The Challenge scenario, where the member receives a coding challenge that he solves live with support from the moderator, using any programming language and IDE of choice.
+
+Depending on the outcome of the session, the moderator can choose to assign the new member to the CADET Rank or to the RISING STAR Rank.
+
+Members also receive a link to the full recording to review and consider ways they could improve.
 
 ### North Cadets
 **CADET** is a special, limited-priviledge North Rank.
@@ -98,17 +109,6 @@ Cadets are coders that are new to the field, don't have extensive experience, or
   - Solidifying their GitHub profile with projects relevant to the selected domain;
   - Gathering more work experience within various teams and projects;
   - Improving their English language skills.
-
-### The Code Showcase
-The Code Showcase is a recorded one-hour session that will be attached to the member's North 360 Profile. The objective is to provide a reference for the member's coding as well as reasoning abilities and language skill. A North crew member will act as a session moderator.
-
-Members can choose between two possible scenarios for the Code Showcase:
-- The Open-Source Project scenario, where the member walks through the code within one of his publically available GitHub repos and engages in a discussion with the moderator around project highlights and challenges. Ideally, the project should follow the guidelines described [here](#github-showcase-projects).
-- The Challenge scenario, where the member receives a coding challenge that he solves live with support from the moderator, using any programming language and IDE of choice.
-
-Depending on the outcome of the session, the moderator can choose to assign the new member to the CADET Rank or to the RISING STAR Rank.
-
-Members also receive a link to the full recording to review and consider ways they could improve.
 
 ### Etiquette
 Members should:
