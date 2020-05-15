@@ -18,7 +18,7 @@ Aspirants benefits:
 **The RISING STAR Rank**.
 
 Stars are outstanding coders that have proven their skills and determination to improve and grow. Stars get all Aspirant benefits listed above, plus:
-   - Access to top remote work opportunities via the Telepat network;
+  - Access to top remote work opportunities via the Telepat network;
   - The North Mystery Swag Box, shipped internationally;
   - Access to mentorship sessions with industry professionals.
 
