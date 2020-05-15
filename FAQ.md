@@ -36,7 +36,7 @@ No. North membership is forever free.
 - Encouraging their peers to take the same approach towards excellence
 
 ### How long does it last?
-Membership is lifetime. Ranking up depends on individual effort, but most of our members reach the STAR rank within two months.
+Membership is lifetime. Ranking up depends on individual effort, but reaching the RISING STAR Rank (which unlocks all membership benefits and access to career opportunities) should take less than 40 days from admission.
 
 ### What's "the Code"?
 [The Code](https://github.com/telepat-io/code) is short for Telepat North's Ethical, Professional, and Personal Code, and consists of a set of commitments that every North member makes to himself and his peers.
