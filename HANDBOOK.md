@@ -84,7 +84,7 @@ Candidates that choose to pursue membership will need to read the Code and have 
 
 Depending on the outcome of the interview session:
 - The member can be directly assigned to the CADET Rank;
-- The member can be directly assigned to the RISING STAR Rank;
+- The member can be directly assigned to the ASPIRANT Rank;
 - The member can be assigned to schedule a [Code Showcase](#the-code-showcase) session that will decide his entry Rank.
 
 ### The Code Showcase
@@ -94,7 +94,7 @@ Members can choose between two possible scenarios for the Code Showcase:
 - The Open-Source Project scenario, where the member walks through the code within one of his publically available GitHub repos and engages in a discussion with the moderator around project highlights and challenges. Ideally, the project should follow the guidelines described [here](#github-showcase-projects).
 - The Challenge scenario, where the member receives a coding challenge that he solves live with support from the moderator, using any programming language and IDE of choice.
 
-Depending on the outcome of the session, the moderator can choose to assign the new member to the CADET Rank or to the RISING STAR Rank.
+Depending on the outcome of the session, the moderator can choose to assign the new member to the CADET Rank or to the ASPIRANT Rank.
 
 Members also receive a link to the full recording to review and consider ways they could improve.
 
