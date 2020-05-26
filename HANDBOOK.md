@@ -1,6 +1,5 @@
 # Telepat North Handbook
 
----
 ## Ranks & Benefits
 North membership has three Ranks. Each Rank grants a member access to a distinct set of benefits and opportunities.
 
@@ -25,7 +24,6 @@ Stars are outstanding coders that have proven their skills and determination to 
 
 Superstars have proven their abilities within real-world, remote work projects, identified via North. They get perpetual, non-limited access to all club benefits.
 
----
 ## Commitments & Ranking Up
 
 North members of all Ranks commit to honor [the Code](https://github.com/telepat-io/code).
@@ -44,7 +42,6 @@ North members are skilled enough to efficiently communicate in technical languag
 
 **STARS** can reach the SUPERSTAR Rank by onboarding with a remote work opportunity identified via North.
 
----
 ## The Code Showcase
 The Code Showcase is a recorded one-hour session that will be attached to the member's North 360 Profile. The objective is to provide a reference for the member's coding as well as reasoning abilities and language skill. A North crew member will act as a session moderator.
 
@@ -56,7 +53,6 @@ Depending on the outcome of the session, the moderator can choose to assign the 
 
 Members also receive a link to the full recording to review and consider ways they could improve.
 
----
 ## GitHub Showcase Projects
 We encourage members to always have one or more public, open-source projects featured on their GitHub profile, to showcase their abilities and stand out from the crowd.
 
@@ -74,7 +70,6 @@ The project code should be representative of the member's current experience and
 - The project should incorporate a CI pipeline (e.g., Travis or CircleCI).
 - The project should make use of automated tests, and aim for 80% or above code coverage.
 
----
 ## The Personal Video Intro
 We encourage members to record and publish a short introduction video about themselves. This can be hosted on Youtube or any other hosting platform, public or unlisted.
 
@@ -84,7 +79,6 @@ The video should highlight your professional experience and achievements, as wel
 - Wear softer, solid colors - avoid distracting attention from your face.
 - If you wear glasses, make sure that they're glare-proof, so there's no reflection.
 
----
 ## Recruitment & Onboarding
 Membership is free and invite-based, with batches of ten to twenty invites being issued periodically.
 
@@ -101,7 +95,6 @@ Depending on the outcome of the interview session:
 - The member can be directly assigned to the CADET Rank;
 - The member can be assigned to schedule a [Code Showcase](#the-code-showcase) session that will decide his entry Rank.
 
----
 ## North Aspirants
 **ASPIRANT** is a special, limited-priviledge North Rank.
 
@@ -114,7 +107,6 @@ Aspirants can strive to reach the Cadet Rank. There are no set minimum requireme
   - Gathering more work experience within various teams and projects;
   - Improving their English language skills.
 
----
 ## Etiquette
 Members should:
 - Observe the `#code-updates` and `#handbook-updates` channels for essential updates to document sources.
