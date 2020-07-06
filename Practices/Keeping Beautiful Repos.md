@@ -60,6 +60,7 @@
 - Check out [Code Review guidelines](https://google.github.io/eng-practices/review/) from Google. Here’s [StackOverflow’s take](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
 - GitHub has a guide on [mastering issues](https://guides.github.com/features/issues/).
 - Use automation to improve your workflow on GitHub: https://github.com/probot/probot
+- [Release](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository) functioning code regularly, while following [semantic versioning](https://semver.org/) rules.
 
 
 ## Great Resources
