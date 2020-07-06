@@ -59,4 +59,4 @@ Current Data
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/88px-CC-BY-SA_icon.svg.png)
 
-*Based on Techstars’* ***Weekly OKR Worksheet\***
+*Based on Techstars’ **Weekly OKR Worksheet**

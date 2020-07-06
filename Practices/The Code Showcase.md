@@ -37,7 +37,7 @@ The objective is to capture your best performance, so it’s crucial that this s
 ## What to expect
 
 - If you've chosen the code challenge scenario, you'll receive a series of small problems to solve using any programming language and IDE of your choice. They'll be increasing in difficulty, and you'll have about 40 minutes to solve as many as you can.
-- If you've chosen the open-source code scenario, be ready for a 40 minute-or-so conversation around your project, its challenges and your implementation decisions. Make sure the code is fresh, relevant, beautiful, and representative for your skill level. You should be following best practices around linting, documenting, and testing. You should also have a solid Readme file. There’s a Repo Housekeeping doc on this topic in the North Library.
+- If you've chosen the open-source code scenario, be ready for a 40 minute-or-so conversation around your project, its challenges and your implementation decisions. Make sure the code is fresh, relevant, beautiful, and representative for your skill level. You should be following best practices around linting, documenting, and testing. You should also have a solid Readme file. There’s a [Repo Housekeeping doc](https://github.com/telepat-io/code/blob/master/Practices/Keeping%20Beautiful%20Repos.md) on this topic in the North Library.
 - The moderator will be helping you through and will ask you additional questions to highlight important aspects. You'll receive feedback and advice, and we'll publish an edited version of the session to your North profile. We'll preserve your anonymity in the process.
 
 
