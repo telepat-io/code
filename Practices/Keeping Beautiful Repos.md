@@ -49,6 +49,7 @@
 - Setup [issue and PR templates](https://help.github.com/en/github/building-a-strong-community/using-templates-to-encourage-useful-issues-and-pull-requests) (or [here](https://docs.gitlab.com/ee/user/project/description_templates.html), if you’re on GitLab). Get inspiration from:
     - https://github.com/stevemao/github-issue-templates
     - https://github.com/devspace/awesome-github-templates
+- Maintain a [CHANGELOG](https://changelog.md/) file. You can learn how to keep a good changelog [here](https://keepachangelog.com/en/1.0.0/).
 
 
 ## Commit & Review Guidelines
