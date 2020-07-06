@@ -64,6 +64,13 @@
 - [Release](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository) functioning code regularly, while following [semantic versioning](https://semver.org/) rules.
 
 
+## Interacting with users
+- It's important to talk to your current users and analyse the cons and pros of the application you are sharing.
+- You should regularly check for new issues, assign them labels and assignees, and raise some yourself while developing. 
+- It might be beneficial to expose your workflow by providing an online [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), for example through [Trello](https://trello.com/). You could also create a [Discord](https://discord.com) server or a [Slack](https://slack.com/) workspace and share the progress in a more casual manner.
+- You should promote your project, for example by answering [StackOverflow]() questions using your application or sharing it with associated communities. Check out for example [this Python community](https://pythondiscord.com/) to share programs written in Python.
+
+
 ## Great Resources
 - https://open.nytimes.com/how-to-take-your-open-source-project-from-good-to-great-49c392175e5c
 - Many excellent guides around OSS here: https://opensource.guide/
