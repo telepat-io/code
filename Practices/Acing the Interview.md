@@ -51,7 +51,7 @@ This bundle was created based on our notes, reviews and performance of previous 
 
 - **Your Learning process:** This applies to coding as well as to any other life situation that would require acquiring new skills to solve a problem. 
 
-   Explain how you learn and apply new skills! Use an example from a former experience    to provide context. (eg. you needed  
+   Explain how you learn and apply new skills! Use an example from a former experience to provide context.
 
 - **Your work ethics**: what are the tools & methodologies you use and how do you use them to deliver quality work. (explain a regular work day in a remote setup) 
 - **Balancing Leadership and Team Play**: when remote work is at stake you are in a unique position: you have to both act as a leader and master self management skills but also clearly understand your role within your team and cater to the needs of others.
