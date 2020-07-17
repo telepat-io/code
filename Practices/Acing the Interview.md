@@ -1,3 +1,5 @@
+![Telepat North](https://i.imgur.com/p5UqQQf.png)
+
 # Acing the Interview
 
 > Questions, comments or ideas on how we can make this document better? Your contributions to this doc are very much appreciated.

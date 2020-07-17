@@ -1,3 +1,5 @@
+![Telepat North](https://i.imgur.com/3cGbwjw.png)
+
 # Growing by Giving
 
 > “Give First”, a Techstars mantra, is one of North’s core values.
