@@ -1,3 +1,5 @@
+![Telepat North](https://i.imgur.com/RUxKWcL.png)
+
 # Telepat North Handbook
 
 ## Ranks & Benefits

@@ -1,4 +1,6 @@
 
+![Telepat North](https://i.imgur.com/xEgtk4M.png)
+
 ## FAQ
 
 ### What's Telepat North?

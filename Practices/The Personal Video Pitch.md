@@ -1,3 +1,5 @@
+![Telepat North](https://i.imgur.com/kC2YyRp.png)
+
 # Personal Video Pitch
 
 ## Why we do this:
