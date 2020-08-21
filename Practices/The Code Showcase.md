@@ -13,8 +13,8 @@ Tech recruiters need some efficient tools to help them properly evaluate candida
 - Candidates were mostly like to encounter a take-home assignment (68%), a portfolio review (63%), and a screen share/pair programming session (51%).
 
 
-![Source](https://paper-attachments.dropbox.com/s_E9C0D93C47CD66FEE2DD4461686BBEEF4677514740600B9493A41A7F07A3424A_1591735707432_image.png)
-![Source](https://paper-attachments.dropbox.com/s_E9C0D93C47CD66FEE2DD4461686BBEEF4677514740600B9493A41A7F07A3424A_1591736003463_image.png)
+![](https://imgur.com/fZlBU24.png)
+![](https://imgur.com/AAMuJbd.png)
 
 
 When using these evaluation tools, interviewers will be watching out for:
@@ -96,5 +96,5 @@ Help us Improve
 This all may be legitimate, but it is [not perfect](https://software.rajivprab.com/2019/07/27/hiring-is-broken-and-yours-is-too/). Code challenges are stressful and often times artificial. Not everyone has the time to work on open-source projects. Your performance on such sessions can be influenced by a number of factors independent of your skill level, such as your personality or your momentary affective state. There is bias and error within the process, and we’re aware of that. That’s why we rely on your feedback and ideas for making this better - just Slack Gabi or Andrei, or send any of us an email.
 
 
-![Source: https://www.researchgate.net/publication/330856191_A_theory_on_individual_characteristics_of_successful_coding_challenge_solvers](https://www.researchgate.net/publication/330856191/figure/fig3/AS:722636837494785@1549301456110/Summary-of-the-obtained-theory-for-predicting-the-performance-in-solving-coding.png)
+![Source: https://www.researchgate.net/publication/330856191_A_theory_on_individual_characteristics_of_successful_coding_challenge_solvers](https://imgur.com/iULdaKw.png)
 
